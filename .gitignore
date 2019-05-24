@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+*.pyc
+figs/*
+**/**.pyc
+*.s??
+*.un~
+*.py~
+model_params
+vanhateren
+slurm_outputs
+results/*
+ckpts/*
+gen*
+run*
+data/*
